@@ -1,2 +1,2 @@
-# project-21
-a virtual reality simulation to test the damage of bullets on wall
+# p5.play-boilerplate
+Boiler plate for p5.play
